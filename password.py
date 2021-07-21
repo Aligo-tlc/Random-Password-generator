@@ -1,5 +1,4 @@
-import random
-import string
+import random, string
 
 print('Random Password Generator by Aligo using Python')
 length = int(input('\nEnter password legnth'))
